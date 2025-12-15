@@ -24,7 +24,7 @@ A collection of beginner-friendly Python console applications built on Replit to
 
 🔗 Replit: https://replit.com/@pratyushmishr16
 
-🔗 Notion: https://season-scar-99a.notion.site/Smart-Quiz-Engine-2ca7d627e6e580c59ce9c2523749f776?source=copy_link
+🔗 Notion: https://season-scar-99a.notion.site/Python-CLI-Project-Tracker-2ca7d627e6e580faba68f54754a10ccb?source=copy_link
 
 ---
 
