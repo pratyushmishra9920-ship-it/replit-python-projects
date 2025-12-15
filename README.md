@@ -11,6 +11,7 @@ A collection of beginner-friendly Python console applications built on Replit to
 - Focus on loops, conditionals, and input validation  
 
 🔗 Replit: https://replit.com/@pratyushmishr16
+
 🔗 Notion: https://season-scar-99a.notion.site/Python-CLI-Project-Tracker-2ca7d627e6e580faba68f54754a10ccb?source=copy_link
 
 ---
@@ -22,6 +23,7 @@ A collection of beginner-friendly Python console applications built on Replit to
 - Designed to strengthen problem-solving fundamentals  
 
 🔗 Replit: https://replit.com/@pratyushmishr16
+
 🔗 Notion: 
 
 ---
